@@ -1,0 +1,10 @@
+input[type="submit"] {
+    background-color: #59c4eb;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 13px 32px;
+}
